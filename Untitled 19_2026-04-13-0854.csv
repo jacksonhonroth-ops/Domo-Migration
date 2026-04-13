@@ -1,0 +1,24 @@
+JOBNUMBER,TENANT_ID,JOBDESCRIPTION,ACTIVE
+101,WT_JANCOFACILITY_1456_6,Bass Pro Vaughan ON,true
+102,WT_JANCOFACILITY_1456_6,"Bass Pro - Moncton, NB",true
+103,WT_JANCOFACILITY_1456_6,"Bass Pro - Tsawwassen, BC",true
+104,WT_JANCOFACILITY_1456_6,"Bass Pro - Halifax, Nova Scotia",true
+105,WT_JANCOFACILITY_1456_6,Alorica - Montreal CA,true
+106,WT_JANCOFACILITY_1456_6,Alorica - Hamilton ON,true
+107,WT_JANCOFACILITY_1456_6,TAG - Bass Pro Vaughan ON,true
+108,WT_JANCOFACILITY_1456_6,"TAG - Bass Pro - Moncton, NB",true
+109,WT_JANCOFACILITY_1456_6,"TAG - Bass Pro - Tsawwassen, BC",true
+110,WT_JANCOFACILITY_1456_6,TAG - Cabela's Halifax,true
+111,WT_JANCOFACILITY_1456_6,TAG - Alorica - Montreal CA,true
+112,WT_JANCOFACILITY_1456_6,TAG - Alorica - Hamilton ON,true
+113,WT_JANCOFACILITY_1456_6,Alorica - Toronto CA,true
+114,WT_JANCOFACILITY_1456_6,REC-Alorica - Montreal CA,true
+115,WT_JANCOFACILITY_1456_6,Mississauga TO1,true
+116,WT_JANCOFACILITY_1456_6,Richmond BC01,true
+117,WT_JANCOFACILITY_1456_6,"REC - Bass Pro - Moncton, NB",true
+118,WT_JANCOFACILITY_1456_6,TAG - Mississauga TO1,true
+119,WT_JANCOFACILITY_1456_6,BDC - Brantford DC,true
+120,WT_JANCOFACILITY_1456_6,TAG - BDC - Brantford DC,true
+AR/AP,WT_JANCOFACILITY_1456_6,WinTeam Use - AR/AP Discount & Finance Charge,false
+BalSheet,WT_JANCOFACILITY_1456_6,Balance Sheet,true
+Tax,WT_JANCOFACILITY_1456_6,WinTeam Use - Tax Allocation,false
